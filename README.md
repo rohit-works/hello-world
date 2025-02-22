@@ -1,3 +1,8 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-Checking the Commit.
+Commands :
+
+git add .
+git commit -m " "
+git checkout master
+git merge fr_name
+git push
